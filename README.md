@@ -1,4 +1,4 @@
-# DALL-E-3-HTTP
+# DALL-E 3 HTTP
 
 Here is the source code for a discord bot that requests image generations from DALL-E 3 via Microsoft Image Creator frontend via HTTP requests using your account cookie, it operates by reading a few files:
 "cookies_U_owners.json" <--- the file which has your _U cookie pool
